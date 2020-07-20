@@ -1,0 +1,28 @@
+<style type="text/css">
+#page-wrapper {
+    background: url(../../img/marron.jpg);
+}
+.sidebar ul li a.active {
+    background: -webkit-linear-gradient(#c5a886, #f5f5f5);
+    background: -o-linear-gradient(#c5a886, #f5f5f5);
+    background: -moz-linear-gradient(#c5a886, #f5f5f5);
+    background: linear-gradient(#c5a886, #f5f5f5);
+    color: black;
+}
+.navbar-brand-first {
+    width: 250px;
+    text-align: center;
+    border-right: 1px solid #e6d5b7;
+    color: black;
+    font-size: 20px;
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    background: -webkit-linear-gradient(#c5a886, #f5f5f5);
+    background: -o-linear-gradient(#c5a886, #f5f5f5);
+    background: -moz-linear-gradient(#c5a886, #f5f5f5);
+    background: linear-gradient(#c5a886, #f5f5f5);
+}
+</style>
